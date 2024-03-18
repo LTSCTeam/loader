@@ -19,4 +19,6 @@ Change links to server and download file
 *.php:
 Change database settings
 
+[Our CDN](https://cdn.exp1oit.xyz)
+
 Maded with <3 by [Tokyani](https://t.me/tokyani) and [MrEzer](https://github.com/MrEzerYT)
