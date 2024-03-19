@@ -9,7 +9,7 @@ pip install requests
 ```
 
 Database settings:
-idk, just create database named `test`, create `hwid_table` table, and enter log + pass in files (also you can change db and table names)
+use mysql, just create database named `test`, create `hwid_table` table, and enter log + pass in files (also you can change db and table names)
 
 What change in all files.
 
