@@ -21,4 +21,4 @@ Change database settings
 
 [Files](https://cdn.exp1oit.xyz/private/Loader.zip)
 
-Maded with <3 by [Tokyani](https://t.me/tokyani) and [MrEzer](https://t.me/mrezer)
+Made with <3 by [Tokyani](https://t.me/tokyani)
